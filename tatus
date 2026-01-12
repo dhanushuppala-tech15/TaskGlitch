@@ -1,0 +1,9 @@
+core.excludesfile=~/.gitignore
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+user.name=dhanushuppala-tech15
+user.email=dhanushuppala88@gmail.com
+remote.origin.url=https://github.com/dhanushuppala-tech15/TaskGlitch.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
